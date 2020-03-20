@@ -1,2 +1,3 @@
 # lazy-less
-Some neat abbreviations in LESS for frequently typed expressions
+
+Some neat shorthands in LESS for frequently typed expressions
